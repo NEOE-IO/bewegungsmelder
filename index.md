@@ -1,6 +1,6 @@
 # Über
 
-Dieser flexible Bewegungsmelder wurde speziell zur Anbindung an Smarthome-Systeme konzipiert. Mögliche Einsatzszenarien sind die Beleuchtungssteuerung, Raumüberwachung oder Heizungssteuerung. Weitere Informationen siehe: <a href="https://www.neoe.io/1009">www.neoe.io/1009</a>
+Dieser flexible Bewegungsmelder wurde speziell zur Anbindung an Smarthome-Systeme konzipiert. Mögliche Einsatzszenarien sind die Beleuchtungssteuerung, Raumüberwachung oder Heizungssteuerung. Weitere Informationen siehe: <a href="https://www.neoe.io/1010">www.neoe.io/1010</a>
 
 # Installation
 
